@@ -1,0 +1,8 @@
+Create EC2 Instance from AWS Console.
+a. Create new key pair to make connection between Putty and Sever.
+Install Putty.
+Open Putty Gen and load the Key Pair(pem) file to convert into .ppk file Putty need it in .ppk format.
+Pick Public IP address from EC2 instance and provide in Putty Host.
+Go To SSH -- AUTH -- path of ..pk file.
+Go To DATA, give ec2-user as user name and open.
+
